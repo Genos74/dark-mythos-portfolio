@@ -53,16 +53,13 @@ const About = () => {
           <div className="glass-card p-6 md:p-8 animate-fade-in">
             <h3 className="text-xl font-bold mb-4 text-neon">My Journey</h3>
             <p className="mb-4 text-balance">
-              I'm a solo game developer with a passion for creating immersive worlds that blend horror and mythical elements. 
-              My journey began with a fascination for how games could transport players to entirely new realities.
+              I'm a solo game developer with a passion for crafting immersive and engaging worlds. My journey started with a deep fascination for how games can transport players into new and compelling realities.
             </p>
             <p className="mb-4 text-balance">
-              With expertise in AI programming, environmental design, and narrative development, I strive to create games 
-              that not only challenge players but also leave a lasting impression through atmospheric storytelling.
+              I'm still learning and evolving, I focus on environmental design, and narrative development to create meaningful and atmospheric experiences. My goal is to build games that challenge players while leaving a lasting impression through storytelling and world-building.
             </p>
             <p className="text-balance">
-              My approach combines technical precision with creative vision, allowing me to build unique gaming experiences 
-              from concept to completion.
+              I strive to balance technical skills with creative vision, continuously improving my craft to bring unique ideas to life, from concept to execution.
             </p>
           </div>
 
