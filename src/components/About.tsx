@@ -19,11 +19,6 @@ const About = () => {
       description: "Enrolled in a Game Design & Development program, focusing on both technical and creative aspects.",
     },
     {
-      year: "2022",
-      title: "AI Programming Focus",
-      description: "Specialized in AI systems for games, creating more dynamic and reactive enemy behaviors.",
-    },
-    {
       year: "2023",
       title: "Current Projects",
       description: "Working on two ambitious titles combining mythical storytelling and innovative gameplay mechanics.",
