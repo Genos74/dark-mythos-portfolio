@@ -1,3 +1,4 @@
+
 import React from "react";
 
 type TimelineItem = {
@@ -19,7 +20,7 @@ const About = () => {
       description: "Enrolled in a Game Design & Development program, focusing on both technical and creative aspects.",
     },
     {
-      year: "2023",
+      year: "2024",
       title: "Current Projects",
       description: "Working on two ambitious titles combining mythical storytelling and innovative gameplay mechanics.",
     },
