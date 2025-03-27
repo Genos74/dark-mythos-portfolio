@@ -1,6 +1,5 @@
-
 import React, { useState, FormEvent } from "react";
-import { GitHub, Mail, Linkedin, ArrowRight } from "lucide-react";
+import { Github, Mail, Linkedin, ArrowRight } from "lucide-react";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -171,7 +170,7 @@ const Contact = () => {
                   className="flex items-center p-4 bg-muted/50 rounded-md hover:bg-muted transition-colors"
                 >
                   <div className="w-10 h-10 rounded-full bg-dark-card flex items-center justify-center mr-4">
-                    <GitHub size={18} className="text-neon" />
+                    <Github size={18} className="text-neon" />
                   </div>
                   <div>
                     <p className="text-sm font-medium">GitHub</p>
